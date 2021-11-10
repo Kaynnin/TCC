@@ -10,7 +10,11 @@ const routes: Routes = [
     path: '',
     redirectTo: 'home',
     pathMatch: 'full'
+  },  {
+    path: 'recommend-games',
+    loadChildren: () => import('./recommend-games/recommend-games.module').then( m => m.RecommendGamesPageModule)
   },
+
 ];
 
 @NgModule({

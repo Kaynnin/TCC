@@ -15,7 +15,7 @@ export class HomePage {
       image: '../../assets/icon/Counter-Strike-Global-Offensive.jpg'
     },
     {
-      image: '../../assets/icon/TheWirtcher.webp'
+      image: 'https://store-images.s-microsoft.com/image/apps.65469.65858607118306853.bade8222-c0ad-4481-b2d6-b46cc0450658.7f5d79c5-b20b-4b09-9363-1190bbb9ea92'
     },
     {
       image: '../../assets/icon/LEAGUE.jpg'
